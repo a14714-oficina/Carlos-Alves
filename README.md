@@ -17,7 +17,7 @@ No futuro, quero trabalhar como desenvolvedor Front-End.
 
 ## 📫 Contactos
 Email: carlosmanoel1912@gmail.com  
-LinkedIn:
+LinkedIn: www.linkedin.com/in/carlos-alves-b4a069343/?skipRedirect=true
 
 ## ✨ Sobre mim
 Sou responsável,criativo,persistente e sempre disposto a aprender.
