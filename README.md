@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia, desenvolvimento e pela ideia de criar soluções 
 Nasci a 19-12-2008, tenho um grande interesse na área de programação gosto de aprender novas tecnologias. Sou dedicado ,organizado, pontual,
 responsável e sei trabalhar bem em equipa.
 
-## 🇵🇹 💻 Linguagens que aprendi até o moemnto:
+## 🇵🇹 💻 Linguagens que aprendi até o momento:
 - Portugol
 - Python
 - JavaScript (HTML, CSS)
