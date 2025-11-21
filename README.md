@@ -4,7 +4,7 @@
 Sou o Carlos Alves, estudante de Gestão e Programação.  
 Atualmente estou no 2º ano na Oficina — Escola Profissional.  
 Sou apaixonado por tecnologia, desenvolvimento e pela ideia de criar soluções úteis através do código.
-Nasci a 19-12-2008, tenho um grande interesse na gosto de aprender novas tecnologias. Sou dedicado ,organizado, pontual,
+Nasci a 19-12-2008, tenho um grande interesse na área de programação gosto de aprender novas tecnologias. Sou dedicado ,organizado, pontual,
 responsável e sei trabalhar bem em equipa.
 
 ## 💻 Linguagens que aprendi até o moemnto:
