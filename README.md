@@ -4,6 +4,8 @@
 Sou o Carlos Alves, estudante de Gestão e Programação.  
 Atualmente estou no 2º ano na Oficina — Escola Profissional.  
 Sou apaixonado por tecnologia, desenvolvimento e pela ideia de criar soluções úteis através do código.
+Nasci a 19-12-2008, tenho um grande interesse na gosto de aprender novas tecnologias. Sou dedicado ,organizado, pontual,
+responsável e sei trabalhar bem em equipa.
 
 ## 💻 Linguagens que aprendi até o moemnto:
 - Portugol
@@ -20,5 +22,4 @@ Pretendo desenvolver a minha carreira em programação como Web Developer, com m
 Email: carlosmanoel1912@gmail.com  
 LinkedIn: www.linkedin.com/in/carlos-alves-b4a069343/?skipRedirect=true
 
-## ✨ Sobre mim
-Sou responsável,criativo,persistente e sempre disposto a aprender.
+
