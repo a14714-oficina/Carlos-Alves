@@ -2,7 +2,7 @@
 
 ## 🇵🇹 Sobre Mim
 Sou o Carlos Alves, estudante de Gestão e Programação, atualmente estou no 2º ano na Oficina - Escola Profissional.  
-Sou apaixonado por tecnologia, desenvolvimento e pela ideia de criar soluções úteis através do código.
+Gosto muito de tecnologia e programação e de criar soluções úteis com código.
 Nasci a 19-12-2008, tenho um grande interesse na área de programação gosto de aprender novas tecnologias. Sou dedicado ,organizado, pontual,
 responsável e sei trabalhar bem em equipa.
 
